@@ -25,7 +25,3 @@ The dataset is sourced from a loan prediction challenge and contains information
 ##  Model Used
 
 A **Logistic Regression** model was trained to predict `Loan_Status`.
-
-```python
-accuracy = model.score(X_test, y_test)
-print(accuracy)  # Output: 0.8272727272727273
